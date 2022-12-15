@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.genivi.commonapi.someip
+Bundle-SymbolicName: org.genivi.commonapi.someip;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: lutz
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.8.0",org.ec
+ lipse.xtext.generator;bundle-version="[2.7.0,3.0.0)";visibility:=reex
+ port,org.eclipse.xtext.util;bundle-version="[2.7.0,3.0.0)";visibility
+ :=reexport,org.franca.core.dsl;bundle-version="[0.13.1,0.14.0)";visib
+ ility:=reexport,org.franca.deploymodel.dsl;bundle-version="[0.13.1,0.
+ 14.0)";visibility:=reexport,org.genivi.commonapi.core;bundle-version=
+ "3.2.0";visibility:=reexport,org.eclipse.core.resources;bundle-versio
+ n="[3.9.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: BMW AG
+Export-Package: org.genivi.commonapi.someip.generator,org.genivi.commo
+ napi.someip.preferences
+Bundle-Name: GENIVI CommonAPI Some/IP C++ Generator
+Bundle-Version: 3.2.0.v202012010944
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_275
+
