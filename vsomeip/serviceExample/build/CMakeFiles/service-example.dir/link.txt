@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -std=c++0x -rdynamic CMakeFiles/service-example.dir/service-example.cpp.o -o service-example  -Wl,-rpath,/home/mob/Documents/vsomeip/vsomeip/build /home/mob/Documents/vsomeip/vsomeip/build/libvsomeip3.so.3.1.20 

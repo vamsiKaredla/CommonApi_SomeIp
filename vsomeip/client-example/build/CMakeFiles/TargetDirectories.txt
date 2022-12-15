@@ -1,0 +1,3 @@
+/home/mob/Documents/vsomeip/vsomeip/client-example/build/CMakeFiles/client-example.dir
+/home/mob/Documents/vsomeip/vsomeip/client-example/build/CMakeFiles/edit_cache.dir
+/home/mob/Documents/vsomeip/vsomeip/client-example/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -std=c++0x -rdynamic CMakeFiles/client-example.dir/client-example.cpp.o -o client-example  -Wl,-rpath,/usr/local/lib /usr/local/lib/libvsomeip3.so.3.1.20 
